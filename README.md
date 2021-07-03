@@ -24,20 +24,20 @@ or <a href="mailto:forallpurposes3@gmail.com"><b>email</b></a> me
 
 <div align="center">
   
- 🔭 I’m currently working on 
+ 🔭 I’m currently working as a Full Stack Web Developer
 
  🌱 I’m currently learning **ML,DL,AI,Docker,Kubernetes**
 
- 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
+ 👨‍💻 All of my projects are available here
 
- 📝 I regularly write articles on [blog.aryasoni.com](blog.aryasoni.com)
+ 📝 I regularly write articles 
 
- 💬 Ask me about **Javascript, Python, React.js, Node.js, ML, Debugging**
+ 💬 Ask me about **Javascript, Python, React.js, Node.js, ML, Debugging, PHP**
 
- 📫 How to reach me **aryasoni98@gmail.com**  
+ 📫 How to reach me **forallpurposes3@gmail.com**  
   
   
-<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="250"/>
+<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200"/>
   
 </div>
 
