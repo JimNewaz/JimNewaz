@@ -13,8 +13,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to advice anything if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:forallpurposes3@gmail.com"><b>email</b></a> me
+<a href="mailto:forallpurposes3@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
