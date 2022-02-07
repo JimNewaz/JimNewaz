@@ -13,7 +13,6 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to advice anything if you think something could be better. <br>
-<a href="mailto:forallpurposes3@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
