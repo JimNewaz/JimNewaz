@@ -99,5 +99,5 @@ Please feel free to advice anything if you think something could be better. <br>
 
 <br>
 <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimnewaz&show_icons=true&locale=en&layout=compact" alt="jimnewaz" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimnewaz&show_icons=true&locale=en" alt="jimnewaz" /></p>
