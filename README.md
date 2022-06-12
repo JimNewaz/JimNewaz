@@ -1,22 +1,12 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 </div>
-
-<div align="center" width="50">
-
-
-
-</div>
-
 
 <div align="center">
-
-You have finally discovered my Github profile. <br>
-Please feel free to advice anything if you think something could be better. <br>
-
-<i>Happy Coding!</i> 😊
-
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
+
+
 
 <hr>
 
@@ -32,6 +22,9 @@ Please feel free to advice anything if you think something could be better. <br>
 
  📫 Reach me **forallpurposes3@gmail.com**  
   
+ 👨‍ My Portfolio: http://sayednewaz.me/
+  
+  
   
 <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200"/>
   
@@ -42,14 +35,14 @@ Please feel free to advice anything if you think something could be better. <br>
 
 
 
-<div align="center">
+<!-- <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=jimnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="jimnewaz" /> </p>
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimnewaz" alt="jimnewaz" /></a> </p>
 
 
     
-</div>
+</div> -->
 
 
 
@@ -98,6 +91,6 @@ Please feel free to advice anything if you think something could be better. <br>
 
 
 <br>
-<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimnewaz&show_icons=true&locale=en&layout=compact" alt="jimnewaz" /></p>
+<!-- <p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimnewaz&show_icons=true&locale=en&layout=compact" alt="jimnewaz" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimnewaz&show_icons=true&locale=en" alt="jimnewaz" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimnewaz&show_icons=true&locale=en" alt="jimnewaz" /></p> -->
