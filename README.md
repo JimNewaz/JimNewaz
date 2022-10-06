@@ -37,7 +37,7 @@
 
 <div>
   <h2>Reach me:</h2>
-  <hr>
+  
  <p>  
 
   <a href="https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/">
@@ -63,21 +63,22 @@
 
 
 <div>
-  🔭 I’m currently working as a Full Stack Web Developer
+  <div align="left">
+  🔭 I’m currently working as a **Junior Software Engineer**
 
- 🌱 I’m currently learning **ML,DL,AI,Python**
+  🌱 I’m currently learning **ML,DL,AI,Python**
 
- 👨‍💻 All of my projects are available here
+  💬 Ask me about **Javascript, Python, PHP**
 
- 💬 Ask me about **Javascript, Python, PHP**
-
- 📫 Reach me **forallpurposes3@gmail.com**  
+  📫 Reach me **ximnewaz@gmail.com**  
   
- 👨‍ My Portfolio: http://sayednewaz.me/
+  👨‍ My Portfolio: http://sayednewaz.me/
 
+  </div>
 
- <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200"/>
-
+  <div align="right">
+    <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200"/>
+  </div>
 </div>
 
 
