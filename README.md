@@ -4,15 +4,27 @@
 
 <div>
   <p> 
-    I'm <span style="color: red; font-weight:900;"> Sayed </span>, a hardworking and ambitious individual with a great passion for Full Stack Development. 
+    I'm <b> Sayed </b>, a hardworking and ambitious individual with a great passion for Full Stack Development. 
   </p>  
 
   <p>
     One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated integrations to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics.
-    
+
     I've worked on a variety of projects with different clients, and have a lot of experience in the freelance sector.
   </p>
 
+</div>
+
+<hr>
+
+<div>
+  <h3>My Freelance Profiles: </h3>
+  
+  <img src="https://image.status.io/z6aeO6kAGsAG.png" width="200px"> 
+  <a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> Upwrok - Sayed Nur E Newaz </a>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
+  <a href="https://www.peopleperhour.com/freelancer/technology-programming/sayed_nur_e-newaz-php-wordpress-web-design-qajvavx"> PPH - Sayed Nur E Newaz </a>
 </div>
 
 <div align="center">
