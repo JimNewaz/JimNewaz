@@ -4,7 +4,7 @@
 
 <div>
   <p> 
-    I'm <b> Sayed </b>, a hardworking and ambitious individual with a great passion for <LAMP/> Development. 
+    I'm <b> Sayed </b>, a hardworking and ambitious individual with a great passion for LAMP Development. 
   </p>  
 
   <p>
@@ -18,7 +18,7 @@
 <hr>
 
 <div>
-  <h2>My Freelance Profiles: </h2>
+  <h2>My Freelance Profiles </h2>
 
   <div>
      <img src="https://image.status.io/z6aeO6kAGsAG.png" width="100px"> <br>
@@ -35,6 +35,8 @@
 
 
 <div>
+  <h2> Connect Me </h2>
+  <hr>
 
 
 </div>
@@ -75,14 +77,14 @@
 
 
 
-<!-- <div align="center">
+<div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=jimnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="jimnewaz" /> </p>
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimnewaz" alt="jimnewaz" /></a> </p>
 
 
     
-</div> -->
+</div>
 
 
 
