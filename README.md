@@ -2,6 +2,18 @@
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
 
+<div>
+  <p> 
+    I'm <span style="color: red; font-weight:900;"> Sayed </span>, a hardworking and ambitious individual with a great passion for Full Stack Development. 
+  </p>  
+
+  <p>
+    One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated integrations to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics.
+    
+    I've worked on a variety of projects with different clients, and have a lot of experience in the freelance sector.
+  </p>
+
+</div>
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200"/>
