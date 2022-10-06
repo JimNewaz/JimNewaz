@@ -4,7 +4,7 @@
 
 <div>
   <p> 
-    I'm <b> Sayed </b>, a hardworking and ambitious individual with a great passion for Full Stack Development. 
+    I'm <b> Sayed </b>, a hardworking and ambitious individual with a great passion for <LAMP/> Development. 
   </p>  
 
   <p>
@@ -18,23 +18,27 @@
 <hr>
 
 <div>
-  <h3>My Freelance Profiles: </h3>
+  <h2>My Freelance Profiles: </h2>
 
   <div>
-     <img src="https://image.status.io/z6aeO6kAGsAG.png" width="100px"> 
+     <img src="https://image.status.io/z6aeO6kAGsAG.png" width="100px"> <br>
      <a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> Upwrok - Sayed Nur E Newaz </a>
   </div>
   
 
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="100px"> 
+    <img src="https://play-lh.googleusercontent.com/4bU1-gnsNaywON9CgID8Ejq9pu3GwwjLZSd_Y6VwN0x2vpfp4nhvYvrA28v4bdHs2NI" width="200px"> 
     <br>
     <a href="https://www.peopleperhour.com/freelancer/technology-programming/sayed_nur_e-newaz-php-wordpress-web-design-qajvavx"> PPH - Sayed Nur E Newaz </a>
-  </div>
- 
-
-  
+  </div>  
 </div>
+
+
+<div>
+
+
+</div>
+
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200"/>
