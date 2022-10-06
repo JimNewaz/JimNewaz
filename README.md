@@ -27,7 +27,7 @@
   
 
   <div>
-    <img src="https://play-lh.googleusercontent.com/4bU1-gnsNaywON9CgID8Ejq9pu3GwwjLZSd_Y6VwN0x2vpfp4nhvYvrA28v4bdHs2NI" width="200px"> 
+    <img src="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> 
     <br>
     <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> PPH - Sayed Nur E Newaz </a>
   </div>  
@@ -37,7 +37,9 @@
 <div>
   <h2> Connect Me </h2>
   <hr>
-
+  <a href="https://developer.android.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/JimNewaz/github-simple-icons/develop/icons/gmail.svg"
+            alt="android" width="40" height="40" /></a>
 
 </div>
 
@@ -77,14 +79,14 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=jimnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="jimnewaz" /> </p>
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimnewaz" alt="jimnewaz" /></a> </p>
 
 
     
-</div>
+</div> -->
 
 
 
