@@ -29,15 +29,16 @@
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
     <br>
+    <br>
     <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> PPH - Sayed Nur E Newaz </a>
   </div>  
 </div>
 
 
 <div>
-  <h2 align="center">You can reach me at :alien:</h2>
+  <h2>Reach me:</h2>
   <hr>
- <p align="center">  
+ <p>  
 
   <a href="https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
@@ -49,6 +50,12 @@
 </p>
 
 </div>
+
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="JimNewaz :: Visitor's Count" /></p>
+
 
 
 <div align="center">
