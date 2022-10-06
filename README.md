@@ -63,7 +63,7 @@
 
 
 <div>
-  <p align="left">
+  <p>
   🔭 I’m currently working as a **Junior Software Engineer**
 
   🌱 I’m currently learning **ML,DL,AI,Python**
@@ -94,18 +94,8 @@
 
 
 
-<!-- <div align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jimnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="jimnewaz" /> </p>
-
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimnewaz" alt="jimnewaz" /></a> </p>
-
-
-    
-</div> -->
-
-
-
-<h3 align="center">Languages and Technologies:</h3>
+<h3 align="center">Languages and Technologies</h3>
+<hr>
 <p align="center">
     <a href="https://developer.android.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
