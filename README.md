@@ -8,12 +8,39 @@
   </p>  
 
   <p>
-    One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated integrations to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics.
-
-    I've worked on a variety of projects with different clients, and have a lot of experience in the freelance sector.
+    One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated integrations to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics.    
   </p>
 
 </div>
+
+
+```golang
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "I've worked on a variety of projects with different clients, and have a lot of experience in the freelance sector.",
+		"- 🔭 I’m currently working on":      "VSB Consultancy as a Junior Software Engineer",
+		"- 🌱 I’m currently learning":        "Sharpening my Front End Skills for the MERN stack (Personal goal)",		
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Javascript, Software Design & Architecture, Web-Dev and SEO",
+	}
+}
+```
+
+
 
 <hr>
 
