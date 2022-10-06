@@ -29,7 +29,7 @@
   <div>
     <img src="https://play-lh.googleusercontent.com/4bU1-gnsNaywON9CgID8Ejq9pu3GwwjLZSd_Y6VwN0x2vpfp4nhvYvrA28v4bdHs2NI" width="200px"> 
     <br>
-    <a href="https://www.peopleperhour.com/freelancer/technology-programming/sayed_nur_e-newaz-php-wordpress-web-design-qajvavx"> PPH - Sayed Nur E Newaz </a>
+    <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> PPH - Sayed Nur E Newaz </a>
   </div>  
 </div>
 
