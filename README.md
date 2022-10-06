@@ -27,7 +27,7 @@
   
 
   <div>
-    <img src="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
     <br>
     <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> PPH - Sayed Nur E Newaz </a>
   </div>  
@@ -37,37 +37,14 @@
 <div>
   <h2 align="center">You can reach me at :alien:</h2>
   <hr>
- <p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
-  </a>
+ <p align="center">  
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+  <a href="https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a>
+  </a>  
   
-  <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+  <a href="mailto:ximnewaz@gmail.com">
+    <img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
 </p>
 
