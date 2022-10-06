@@ -122,7 +122,7 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimNewaz_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimNewaz&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimnewaz&show_icons=true&locale=en" alt="jimnewaz" /></p>
