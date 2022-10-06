@@ -19,12 +19,21 @@
 
 <div>
   <h3>My Freelance Profiles: </h3>
-  
-  <img src="https://image.status.io/z6aeO6kAGsAG.png" width="200px"> 
-  <a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> Upwrok - Sayed Nur E Newaz </a>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
-  <a href="https://www.peopleperhour.com/freelancer/technology-programming/sayed_nur_e-newaz-php-wordpress-web-design-qajvavx"> PPH - Sayed Nur E Newaz </a>
+  <div>
+     <img src="https://image.status.io/z6aeO6kAGsAG.png" width="100px"> 
+     <a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> Upwrok - Sayed Nur E Newaz </a>
+  </div>
+  
+
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="100px"> 
+    <br>
+    <a href="https://www.peopleperhour.com/freelancer/technology-programming/sayed_nur_e-newaz-php-wordpress-web-design-qajvavx"> PPH - Sayed Nur E Newaz </a>
+  </div>
+ 
+
+  
 </div>
 
 <div align="center">
