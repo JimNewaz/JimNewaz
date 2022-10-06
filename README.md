@@ -25,11 +25,11 @@
      <a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> Upwrok - Sayed Nur E Newaz </a>
   </div>
   
-
+    
   <div>
+    <br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
-    <br>
-    <br>
+    <br>    
     <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> PPH - Sayed Nur E Newaz </a>
   </div>  
 </div>
@@ -41,12 +41,17 @@
  <p>  
 
   <a href="https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="30" width="30">
   </a>  
   
   <a href="mailto:ximnewaz@gmail.com">
-    <img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+    <img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" alt="" height="30" width="30">
   </a>
+
+  <a href="sayednewaz.me">
+    <img src="https://cdn-icons-png.flaticon.com/512/726/726107.png?w=360" alt="" height="30" width="30">
+  </a>
+
 </p>
 
 </div>
@@ -57,20 +62,8 @@
 <p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p>
 
 
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200"/>
-</div>
-
-
-
-
-
-<hr>
-
-<div align="center">
-  
- 🔭 I’m currently working as a Full Stack Web Developer
+<div>
+  🔭 I’m currently working as a Full Stack Web Developer
 
  🌱 I’m currently learning **ML,DL,AI,Python**
 
@@ -81,12 +74,20 @@
  📫 Reach me **forallpurposes3@gmail.com**  
   
  👨‍ My Portfolio: http://sayednewaz.me/
+
+
+ <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="200"/>
+
+</div>
+
+
+
+ 
   
   
   
 
-  
-</div>
+
 
 <br>
 
