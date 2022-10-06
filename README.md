@@ -52,9 +52,9 @@
 </div>
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4>Visitor's count</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="JimNewaz :: Visitor's Count" /></p>
+<p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p>
 
 
 
