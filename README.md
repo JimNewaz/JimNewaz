@@ -155,8 +155,5 @@ func GetBio() Bio {
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jimnewaz&show_icons=true&locale=en&theme=synthwave" alt="jimnewaz" /></p>
 
 
----
 
-Credit: [JimNewaz](https://github.com/JimNewaz)
 
-Last Edited on: 06/10/2022
