@@ -15,7 +15,6 @@
 
 
 ```PHP
-package main
 
 class biography{
      public $name; 
