@@ -17,16 +17,33 @@
 ```PHP
 package main
 
-import (
-	"fmt"
-)
+class biography{
+     public $name; 
+     public $email; 
+     public $stack = array(    	
+     	1 => "PHP", 
+	2 => "Python", 
+	3 => "JavaScript", 
+	4 => "React Js", 
+	5 => "Django"
+     ); 
+}
 
-type Bio map[string]string
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
+function name($name) {   
+    $this->name = $name;    
+}
+
+function get_name(){
+     return $this->name;
+}
+
+function email($email) {    
+    $this->email = $email;    
+}
+
+function get_email(){
+     return $this->email;
 }
 
 func GetBio() Bio {
@@ -38,6 +55,16 @@ func GetBio() Bio {
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Javascript, Software Design & Architecture, Web-Dev and SEO",
 	}
 }
+
+$name = new biography();
+$name->details('Newaz');
+$email->details('ximnewaz@gmail.com');
+
+echo "Name: " . $name->get_name();
+echo "<br>";
+echo "Email: " . $email->get_email();
+echo "<br>";
+
 ```
 
 
