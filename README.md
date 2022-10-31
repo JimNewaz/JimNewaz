@@ -14,7 +14,7 @@
 </div>
 
 
-```golang
+```PHP
 package main
 
 import (
