@@ -47,7 +47,8 @@ function get_email(){
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "I've worked on a variety of projects with different clients, and have a lot of experience in the freelance sector.",
+		"- ⚡ Quick bio:":                    "I've worked on a variety of projects with different clients, 
+		and have a lot of experience in the freelance sector.",
 		"- 🔭 I’m currently working on":      "VSB Consultancy as a Junior Software Engineer",
 		"- 🌱 I’m currently learning":        "Sharpening my Front End Skills for the MERN stack (Personal goal)",		
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
