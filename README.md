@@ -52,7 +52,8 @@ func GetBio() Bio {
 		"- 🔭 I’m currently working on":      "VSB Consultancy as a Junior Software Engineer",
 		"- 🌱 I’m currently learning":        "Sharpening my Front End Skills for the MERN stack (Personal goal)",		
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Javascript, Software Design & Architecture, Web-Dev and SEO",
+		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Javascript, Software Design & Architecture,
+		Web-Dev and SEO",
 	}
 }
 
