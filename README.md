@@ -16,7 +16,7 @@ create sites that have a distinct, remarkable, and contemporary aesthetic appeal
 to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics."
 ```
 
-
+<div align="center"><p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p></div>
 
 <hr>
 
@@ -75,8 +75,8 @@ to require little to no maintenance while working on their own for years because
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jimnewaz&show_icons=true&locale=en&theme=synthwave" alt="jimnewaz" /></p>
 
 
-<h4>Visitor's count</h4>
 
-<p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p>
+
+
 
 
