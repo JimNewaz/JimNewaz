@@ -4,7 +4,7 @@
 
 <div align="center">
   <p> 
-    I'm <b> Newaz </b>, a hardworking and ambitious individual with a great passion for LAMP Development. 
+    I'm <b> Newaz </b>, a hardworking and ambitious individual with a great passion for Full Stack Software Development. 
   </p>    
 
 </div>
