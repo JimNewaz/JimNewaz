@@ -5,18 +5,15 @@
 <div>
   <p> 
     I'm <b> Sayed </b>, a hardworking and ambitious individual with a great passion for LAMP Development. 
-  </p>  
-
-  <p>
-    One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated integrations to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics.    
-  </p>
+  </p>    
 
 </div>
 
 
 ```PHP
+	$about_me = "One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated integrations to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics."
 
-	I can do it in PHP
+	
 
 ```
 
