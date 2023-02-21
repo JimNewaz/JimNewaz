@@ -46,7 +46,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/jim.newaz)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/01611163133)
-[![Email](https://img.shields.io/badge/Email-25D366?logo=email&logoColor=whitee&style=for-the-badge)](https://wa.me/01611163133)
+[![Email](https://img.shields.io/badge/Gmail-25D366?logo=gmail&logoColor=whitee&style=for-the-badge)](https://wa.me/01611163133)
 
 <div>
   <h2>Reach me:</h2>
