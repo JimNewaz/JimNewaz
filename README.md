@@ -16,55 +16,7 @@
 
 ```PHP
 
-class biography{
-     public $name; 
-     public $email; 
-     public $stack = array(    	
-     	1 => "PHP", 
-	2 => "Python", 
-	3 => "JavaScript", 
-	4 => "React Js", 
-	5 => "Django"
-     ); 
-}
-
-
-function name($name) {   
-    $this->name = $name;    
-}
-
-function get_name(){
-     return $this->name;
-}
-
-function email($email) {    
-    $this->email = $email;    
-}
-
-function get_email(){
-     return $this->email;
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "I've worked on a variety of projects with different clients, 
-		and have a lot of experience in the freelance sector.",
-		"- 🔭 I’m currently working on":      "VSB Consultancy as a Junior Software Engineer",
-		"- 🌱 I’m currently learning":        "Sharpening my Front End Skills for the MERN stack (Personal goal)",		
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Javascript, Software Design & Architecture,
-		Web-Dev and SEO",
-	}
-}
-
-$name = new biography();
-$name->details('Newaz');
-$email->details('ximnewaz@gmail.com');
-
-echo "Name: " . $name->get_name();
-echo "<br>";
-echo "Email: " . $email->get_email();
-echo "<br>";
+	I can do it in PHP
 
 ```
 
@@ -90,10 +42,15 @@ echo "<br>";
 </div>
 
 
+## Connect:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/jim.newaz)
 <div>
   <h2>Reach me:</h2>
   
  <p>  
+  <a href="https://www.facebook.com/jim.newaz">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="" height="30" width="30">
+  </a>  
 
   <a href="https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="30" width="30">
