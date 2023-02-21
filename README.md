@@ -26,19 +26,18 @@
 
 <div>
   <h2>My Freelance Profiles </h2>
+     <div> 
+	<div style="display: inline-block;">
+	    <img src="https://image.status.io/z6aeO6kAGsAG.png" width="100px"> <br>
+	    <a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> Upwrok - Sayed Nur E Newaz </a>
+	</div>
 
-  <div>
-     <img src="https://image.status.io/z6aeO6kAGsAG.png" width="100px"> <br>
-     <a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> Upwrok - Sayed Nur E Newaz </a>
-  </div>
-  
-    
-  <div>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
-    <br>    
-    <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> PPH - Sayed Nur E Newaz </a>
-  </div>  
+	<div style="display: inline-block;">		    
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
+	    <br>    
+	    <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> PPH - Sayed Nur E Newaz </a>
+	</div>  
+   </div> 
 </div>
 
 
@@ -46,31 +45,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/jim.newaz)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/01611163133)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:mailto:ximnewaz@gmail.com)
-
-<div>
-  <h2>Reach me:</h2>
-  
- <p>  
-  <a href="https://www.facebook.com/jim.newaz">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="" height="30" width="30">
-  </a>  
-
-  <a href="https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="30" width="30">
-  </a>  
-  
-  <a href="mailto:ximnewaz@gmail.com">
-    <img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" alt="" height="30" width="30">
-  </a>
-
-  <a href="sayednewaz.me">
-    <img src="https://cdn-icons-png.flaticon.com/512/726/726107.png?w=360" alt="" height="30" width="30">
-  </a>
-
-</p>
-
-</div>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ximnewaz@gmail.com)
 
 
 <h4>Visitor's count</h4>
