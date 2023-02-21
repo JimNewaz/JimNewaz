@@ -2,9 +2,9 @@
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
 
-<div>
+<div align="center">
   <p> 
-    I'm <b> Sayed </b>, a hardworking and ambitious individual with a great passion for LAMP Development. 
+    I'm <b> Newaz </b>, a hardworking and ambitious individual with a great passion for LAMP Development. 
   </p>    
 
 </div>
