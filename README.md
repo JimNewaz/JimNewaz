@@ -11,9 +11,10 @@
 
 
 ```PHP
-$about_me = "One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above to 
-create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated integrations 
-to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics."
+$about_me = "One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above 
+to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated 
+integrations to require little to no maintenance while working on their own for years because of my considerable 
+knowledge of web mechanics."
 ```
 
 <div align="center"> <p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p> </div>
@@ -31,7 +32,7 @@ to require little to no maintenance while working on their own for years because
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ximnewaz@gmail.com)
 
 ### Front-End
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0037ff?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 
 <hr>
 
