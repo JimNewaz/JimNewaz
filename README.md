@@ -16,7 +16,7 @@ create sites that have a distinct, remarkable, and contemporary aesthetic appeal
 to require little to no maintenance while working on their own for years because of my considerable knowledge of web mechanics."
 ```
 
-<div align="center"><p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p></div>
+<div align="center"> <p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p> </div>
 
 <hr>
 
