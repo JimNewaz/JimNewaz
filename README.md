@@ -32,11 +32,11 @@
 	    <a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> Upwrok - Sayed Nur E Newaz </a>
 	</div>
 
-	<div style="display: inline-block;">		    
+<!-- 	<div style="display: inline-block;">		     -->
 	    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
 	    <br>    
 	    <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> PPH - Sayed Nur E Newaz </a>
-	</div>  
+<!-- 	</div>   -->
    </div> 
 </div>
 
