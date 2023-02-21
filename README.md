@@ -26,7 +26,7 @@
 
 ## Freelnace Profile
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0145d52d72c6c3e698)
-[![Peopleperhour](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]
+[![Peopleperhour](https://img.shields.io/badge/peopleperhour-1DBF73?style=for-the-badge&logo=peopleperhour&logoColor=white)]
 
 ## Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/jim.newaz)
