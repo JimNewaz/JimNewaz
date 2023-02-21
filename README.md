@@ -11,8 +11,8 @@
 
 
 ```PHP
-$about_me = "One of my specialties is taking a concept and turning it into a fully functional platform. I go above and above 
-to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated 
+$about_me = "One of my specialties is taking a concept and turning it into a fully functional platform. I go above and 
+above to create sites that have a distinct, remarkable, and contemporary aesthetic appeal. I'm able to optimize complicated 
 integrations to require little to no maintenance while working on their own for years because of my considerable 
 knowledge of web mechanics."
 ```
