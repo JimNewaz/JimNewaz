@@ -24,20 +24,8 @@
 
 <hr>
 
-<div>
-  <h2>My Freelance Profiles </h2>
-     
-	<div style="display: inline-block;">
-		<a href="https://www.upwork.com/freelancers/~0145d52d72c6c3e698"> <img src="https://image.status.io/z6aeO6kAGsAG.png" width="100px"> </a>    
-	</div>
-
-	<div style="display: inline-block;">		    
-	    <a href="https://www.pngitem.com/pimgs/m/682-6825892_logo-people-per-hour-hd-png-download.png" width="200px"> 
-		    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/PeoplePerHour.com_2018_logo.png" width="200px"> 
-	    </a>
-	</div>  
-   
-</div>
+## Freelnace Profile
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0145d52d72c6c3e698)
 
 
 ## Connect:
