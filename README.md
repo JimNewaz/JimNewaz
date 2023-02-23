@@ -21,7 +21,7 @@ knowledge of web mechanics."
 
 <hr>
 
-## Freelnace Profiles
+## Freelance Profiles
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0145d52d72c6c3e698)
 [![PeoplePerHour](https://img.shields.io/badge/peopleperhour-FF7300?style=for-the-badge&logo=peopleperhour&logoColor=white)](https://www.peopleperhour.com/freelancer/technology-programming/sayed_nur_e-newaz-wix-php-wordpress-laravel-qajvavx)
 
