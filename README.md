@@ -10,13 +10,16 @@
 </div>
 
 
-```PHP
+```
 Passionate software engineer crafting elegant solutions to complex problems in the digital realm.
 ```
 
 <div align="center"> <p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p> </div>
 
 <hr>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimNewaz&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JimNewaz&theme=2077)
 
 ## Freelance Profiles
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0145d52d72c6c3e698)
