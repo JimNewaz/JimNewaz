@@ -17,9 +17,10 @@ Passionate software engineer crafting elegant solutions to complex problems in t
 <div align="center"> <p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p> </div>
 
 <hr>
-
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimNewaz&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JimNewaz&theme=2077)
+</div>
 
 ## Freelance Profiles
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0145d52d72c6c3e698)
@@ -70,10 +71,7 @@ Passionate software engineer crafting elegant solutions to complex problems in t
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimNewaz&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jimnewaz&show_icons=true&locale=en&theme=synthwave" alt="jimnewaz" /></p>
 
 
 
