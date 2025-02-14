@@ -22,11 +22,6 @@ Passionate software engineer crafting elegant solutions to complex problems in t
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JimNewaz&theme=2077)
 
 
-
-## Freelance Profiles
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0145d52d72c6c3e698)
-[![PeoplePerHour](https://img.shields.io/badge/peopleperhour-FF7300?style=for-the-badge&logo=peopleperhour&logoColor=white)](https://www.peopleperhour.com/freelancer/technology-programming/sayed_nur_e-newaz-wix-php-wordpress-laravel-qajvavx)
-
 ## Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/jim.newaz)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sayed-nur-e-newaz-77a40a1b8/) 
