@@ -10,9 +10,6 @@
 </div>
 
 
-```
-Passionate software engineer crafting elegant solutions to complex problems in the digital realm.
-```
 
 <div align="center"> <p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p> </div>
 
