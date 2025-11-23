@@ -10,9 +10,6 @@
 </div>
 
 
-
-<div align="center"> <p><img src="https://profile-counter.glitch.me/{JimNewaz}/count.svg" alt="JimNewaz :: Visitor's Count" /></p> </div>
-
 <hr>
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimNewaz&theme=2077) 
