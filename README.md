@@ -23,7 +23,7 @@
 
 ### Front-End
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0037ff?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
-
+![Tailwind](https://img.shields.io/badge/Tailwind-239120?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <hr>
 
 ### Back-End
